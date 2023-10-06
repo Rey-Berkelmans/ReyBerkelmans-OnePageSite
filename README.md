@@ -1,1 +1,8 @@
-# ReyBerkelmans-OnePageSite
+# Notes
+Notes
+
+# Reflection
+Notes
+
+# References
+Notes
