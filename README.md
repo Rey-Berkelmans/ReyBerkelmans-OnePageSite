@@ -12,3 +12,5 @@ Programiz. (2023). HTML and Javascript. https://www.programiz.com/html/html-and-
 jacksonpost. (2023). assignment-3-p4d. GitHub. https://github.com/jacksonpost/assignment-3-p4d
 
 W3Schools. (2023). How TO - On Scroll Header. https://www.w3schools.com/howto/howto_js_sticky_header.asp
+
+W3Schools. (2023). How TO - Build a Website. https://www.w3schools.com/howto/howto_website.asp
