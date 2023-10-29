@@ -23,7 +23,7 @@ I am also not the most experienced with coding, and therefore if I had to work o
 
 This website is successful, but could be greatly improved like most things. This website could heavily benefit from more JavaScript code and customisation, which would be possible if I had spent more time working on this website and its code.
 
-# References for Coding
+# References
 Tutorials Tonight. (2023). Sample HTML Code For Homepage. https://www.tutorialstonight.com/sample-html-code-for-homepage
 
 Programiz. (2023). HTML and Javascript. https://www.programiz.com/html/html-and-javascript
@@ -35,6 +35,10 @@ W3Schools. (2023). How TO - On Scroll Header. https://www.w3schools.com/howto/ho
 W3Schools. (2023). How TO - Build a Website. https://www.w3schools.com/howto/howto_website.asp
 
 W3Schools. (2023). HTML footer Tag. https://www.w3schools.com/TAgs/tag_footer.asp
+
+Bushfire Front. (2023). Impacts of Bushfires. https://www.bushfirefront.org.au/home/fire-facts/impacts-of-bushfires/
+
+All images are Public-Domain Stock Images that can be found on https://stock.adobe.com/uk/
 
 W3Schools. (2023). JavaScript Examples. https://www.w3schools.com/js/js_examples.asp
 
