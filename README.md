@@ -5,6 +5,9 @@ The most difficult aspect of creating this website was implementing JavaScript t
 
 The majority of this code in this website is HTML, but this website would benefit from more CSS and JavaScript code.
 
+1. M,
+2. d
+
 # Reflection
 If given the chance to redo this website, I would like to spend more time working on it in order to get more of the JavaScript code working and make the website more unique.
 
