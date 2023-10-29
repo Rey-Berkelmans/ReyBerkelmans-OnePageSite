@@ -1,12 +1,17 @@
 # Notes
 This website took several hours to complete.
 
-The most difficult aspect of creating this website was implementing JavaScript to work with the HTML code. A large amount of JavaScript code I wished to add was removed due to errors with the code.
+Attached below is features of this website.
 
-The majority of this code in this website is HTML, but this website would benefit from more CSS and JavaScript code.
+1. A pop-up when users access the website.
+2. A slideshow of three different images.
+3. A interactable button that allows users to view the time.
+4. Website has been edited to have an appealing design for viewers.
 
-1. M,
-2. d
+Attached below is the key issues of this website.
+
+1. Majority of this code is HTML. Website could benefit from more CSS and JavaScript code.
+2. Much of the JavaScript code had to be removed due to errors with the code. Website could benefit if more time was spent dealing with these errors.
 
 # Reflection
 If given the chance to redo this website, I would like to spend more time working on it in order to get more of the JavaScript code working and make the website more unique.
