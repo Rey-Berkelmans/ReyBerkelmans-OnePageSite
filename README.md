@@ -1,14 +1,16 @@
 # Notes
 This website took several hours to complete.
 
-The most difficult aspect of creating this website was implementing JavaScript to work with the HTML code. A large amount of JavaScript code I wished to add was removed due to errors and it not working.
+The most difficult aspect of creating this website was implementing JavaScript to work with the HTML code. A large amount of JavaScript code I wished to add was removed due to errors with the code.
 
-The main issue with this website was time restrictions preventing me from working on errors to allow me to add more JavaScript in this code.
+The majority of this code in this website is HTML, but this website would benefit from more CSS and JavaScript code.
 
 # Reflection
 If given the chance to redo this website, I would like to spend more time working on it in order to get more of the JavaScript code working and make the website more unique.
 
 I am also not the most experienced with coding, and therefore if I had to work on this website again I would like to spend more time researching how to code different assignments.
+
+This website is successful, but could be greatly improved like most things. This website could heavily benefit from more JavaScript code and customisation.
 
 # References for Coding
 Tutorials Tonight. (2023). Sample HTML Code For Homepage. https://www.tutorialstonight.com/sample-html-code-for-homepage
