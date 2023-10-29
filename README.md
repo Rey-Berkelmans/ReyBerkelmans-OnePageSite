@@ -18,9 +18,9 @@ Attached below is the key issues of this website.
 # Reflection
 If given the chance to redo this website, I would like to spend more time working on it in order to get more of the JavaScript code working and make the website more unique.
 
-I am also not the most experienced with coding, and therefore if I had to work on this website again I would like to spend more time researching how to code different assignments.
+I am also not the most experienced with coding, and therefore if I had to work on this website again I would like to spend more time researching how to code different websites.
 
-This website is successful, but could be greatly improved like most things. This website could heavily benefit from more JavaScript code and customisation.
+This website is successful, but could be greatly improved like most things. This website could heavily benefit from more JavaScript code and customisation, which would be possible if I had spent more time working on this website and its code.
 
 # References for Coding
 Tutorials Tonight. (2023). Sample HTML Code For Homepage. https://www.tutorialstonight.com/sample-html-code-for-homepage
