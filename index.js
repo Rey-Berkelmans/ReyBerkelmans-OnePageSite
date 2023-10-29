@@ -12,3 +12,5 @@ function carousel() {
   x[myIndex-1].style.display = "block";
   setTimeout(carousel, 3000);
 }
+
+window.alert("When a bushfire is seen, make sure to report it and contanct emergency help when required.");
