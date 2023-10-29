@@ -6,7 +6,7 @@ The most difficult aspect of creating this website was implementing JavaScript t
 The main issue with this website was time restrictions preventing me from working on errors to allow me to add more JavaScript in this code.
 
 # Reflection
-Notes
+If given the chance to redo this website, I would like to spend more time working on it in order to get more of the JavaScript code working and make the website more unique.
 
 # References for Coding
 Tutorials Tonight. (2023). Sample HTML Code For Homepage. https://www.tutorialstonight.com/sample-html-code-for-homepage
