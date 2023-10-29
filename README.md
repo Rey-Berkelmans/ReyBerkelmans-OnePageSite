@@ -6,7 +6,8 @@ Attached below is features of this website.
 1. A pop-up when users access the website.
 2. A slideshow of three different images.
 3. A interactable button that allows users to view the time.
-4. Website has been edited to have an appealing design for viewers.
+4. A header that sticks to the top of the screen when users scroll down.
+5. Website has been edited to have an appealing design for viewers.
 
 Attached below is the key issues of this website.
 
