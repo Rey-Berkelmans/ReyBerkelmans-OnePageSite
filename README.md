@@ -12,6 +12,8 @@ Attached below is the key issues of this website.
 
 1. Majority of this code is HTML. Website could benefit from more CSS and JavaScript code.
 2. Much of the JavaScript code had to be removed due to errors with the code. Website could benefit if more time was spent dealing with these errors.
+3. Website would benefit for more information added into the body of this website.
+4. Website would benefit for more time spent on the website's design.
 
 # Reflection
 If given the chance to redo this website, I would like to spend more time working on it in order to get more of the JavaScript code working and make the website more unique.
