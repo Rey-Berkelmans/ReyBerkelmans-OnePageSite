@@ -36,10 +36,10 @@ W3Schools. (2023). How TO - Build a Website. https://www.w3schools.com/howto/how
 
 W3Schools. (2023). HTML footer Tag. https://www.w3schools.com/TAgs/tag_footer.asp
 
-Bushfire Front. (2023). Impacts of Bushfires. https://www.bushfirefront.org.au/home/fire-facts/impacts-of-bushfires/
-
-All images are Public-Domain Stock Images that can be found on https://stock.adobe.com/uk/
-
 W3Schools. (2023). JavaScript Examples. https://www.w3schools.com/js/js_examples.asp
 
 W3Schools. (2023). JavaScript Tutorial. https://www.w3schools.com/Js/
+
+Bushfire Front. (2023). Impacts of Bushfires. https://www.bushfirefront.org.au/home/fire-facts/impacts-of-bushfires/
+
+All images are Public-Domain Stock Images that can be found on https://stock.adobe.com/uk/
