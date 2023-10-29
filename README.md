@@ -8,6 +8,8 @@ The main issue with this website was time restrictions preventing me from workin
 # Reflection
 If given the chance to redo this website, I would like to spend more time working on it in order to get more of the JavaScript code working and make the website more unique.
 
+I am also not the most experienced with coding, and therefore if I had to work on this website again I would like to spend more time researching how to code different assignments.
+
 # References for Coding
 Tutorials Tonight. (2023). Sample HTML Code For Homepage. https://www.tutorialstonight.com/sample-html-code-for-homepage
 
