@@ -1,10 +1,14 @@
 # Notes
-Notes
+This website took several hours to complete.
+
+The most difficult aspect of creating this website was implementing JavaScript to work with the HTML code. A large amount of JavaScript code I wished to add was removed due to errors and it not working.
+
+The main issue with this website was time restrictions preventing me from working on errors to allow me to add more JavaScript in this code.
 
 # Reflection
 Notes
 
-# References
+# References for Coding
 Tutorials Tonight. (2023). Sample HTML Code For Homepage. https://www.tutorialstonight.com/sample-html-code-for-homepage
 
 Programiz. (2023). HTML and Javascript. https://www.programiz.com/html/html-and-javascript
