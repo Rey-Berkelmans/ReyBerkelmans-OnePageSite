@@ -16,3 +16,5 @@ W3Schools. (2023). How TO - On Scroll Header. https://www.w3schools.com/howto/ho
 W3Schools. (2023). How TO - Build a Website. https://www.w3schools.com/howto/howto_website.asp
 
 W3Schools. (2023). HTML footer Tag. https://www.w3schools.com/TAgs/tag_footer.asp
+
+W3Schools. (2023). JavaScript Examples. https://www.w3schools.com/js/js_examples.asp
