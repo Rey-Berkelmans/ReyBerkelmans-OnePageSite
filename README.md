@@ -22,3 +22,5 @@ W3Schools. (2023). How TO - Build a Website. https://www.w3schools.com/howto/how
 W3Schools. (2023). HTML footer Tag. https://www.w3schools.com/TAgs/tag_footer.asp
 
 W3Schools. (2023). JavaScript Examples. https://www.w3schools.com/js/js_examples.asp
+
+W3Schools. (2023). JavaScript Tutorial. https://www.w3schools.com/Js/
